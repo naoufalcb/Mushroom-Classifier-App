@@ -24,8 +24,8 @@ This web application helps users classify mushrooms as **edible** or **poisonous
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/naoufalcb/mushroom-edibility-classifier.git  
-   cd mushroom-edibility-classifier  
+   git clone https://github.com/naoufalcb/Mushroom-Classifier-App.git  
+   cd Mushroom-Classifier-App 
    ```  
 
 2. Install required dependencies:  
@@ -35,7 +35,7 @@ This web application helps users classify mushrooms as **edible** or **poisonous
 
 3. Run the application:  
    ```bash  
-   streamlit run app.py  
+   streamlit run Mushroom-Classifier-App.py  
    ```  
 
 4. Open the app in your browser:  
