@@ -2,6 +2,18 @@
 
 This web application helps users classify mushrooms as **edible** or **poisonous** based on various features. The app is built using **Streamlit** and leverages popular machine learning algorithms for binary classification.  
 
+## Demo  
+---
+<h3 align="center">
+    🎈 Try it out here: <a href="https://mushroom-classifier-app-naoufalcb.streamlit.app/">Mushroom Edibility Classifier on Streamlit 🎈 </a>
+</h3>
+
+---
+
+<p align="center">
+    <a href="https://mushroom-classifier-app-naoufalcb.streamlit.app/"><img src="Preview/MushroomClassifierApp.png"></a>
+</p>
+
 ## Features  
 
 - Interactive interface to upload and visualize the mushroom dataset.  
@@ -16,16 +28,12 @@ This web application helps users classify mushrooms as **edible** or **poisonous
   - Precision-Recall Curve  
 - Option to view raw data used for classification.  
 
-## Demo  
-
-![App Screenshot](link-to-screenshot)  
-
 ## Installation  
 
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/naoufalcb/Mushroom-Classifier-App.git  
-   cd Mushroom-Classifier-App 
+   cd Mushroom-Classifier-App  
    ```  
 
 2. Install required dependencies:  
@@ -51,18 +59,13 @@ The application uses the [Mushroom Dataset](https://archive.ics.uci.edu/ml/datas
 2. Select a classification model (SVM, Logistic Regression, or Random Forest) from the sidebar.  
 3. Adjust the hyperparameters for the chosen model.  
 4. Click on the "Classify" button to see the results, including accuracy, precision, and recall.  
-5. Visualize model performance using the provided plots.  
+5. Visualize model performance using the provided plots.
 
-## Screenshots  
+## Full Screenshot
 
-### Main Interface  
-![Main Interface](link-to-main-interface-screenshot)  
-
-### Model Selection  
-![Model Selection](link-to-model-selection-screenshot)  
-
-### Performance Metrics  
-![Performance Metrics](link-to-performance-metrics-screenshot)  
+<p align="center">
+    <a href="https://mushroom-classifier-app-naoufalcb.streamlit.app/"><img src="Preview/MushroomClassifierApp-Full.png"></a>
+</p>
 
 ## Dependencies  
 
